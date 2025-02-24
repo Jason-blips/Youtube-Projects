@@ -1,0 +1,7 @@
+{
+  "name": "FileManager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
